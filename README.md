@@ -7,6 +7,10 @@ the data before I trust the answer.
 📍 Windsor, ON · open to entry-level data, business and BI analyst roles
 
 ### Projects
+- **[Football Squads as Asset Portfolios](https://github.com/jagjyotsingh10/football-transfers)**: SQL Server
+  star-schema warehouse built from 2.8 million Transfermarkt rows, 9 data-quality checks, 11 business questions
+  answered in SQL, and a 6-page Power BI dashboard (32 DAX measures) for Europe's top 5 leagues, 2020–2026.
+  SQL Server, Python, Power BI.
 - **[NBA Contract Value Model](https://github.com/jagjyotsingh10/nba-contract-value-model)**: regression that
   estimates players' fair-market salary from on-court stats (out-of-sample R² 0.59) to find the league's best and
   worst contracts, stress-tested against six alternative explanations. Python, scikit-learn, statsmodels.
@@ -25,7 +29,7 @@ the data before I trust the answer.
   WorkManager.
 
 ### Tools
-- **Analysis:** Python (pandas, scikit-learn, statsmodels, XGBoost) · SQL · SQL Server · Excel · Power BI · Tableau
+- **Analysis:** SQL (CTEs, window functions) · SQL Server · Power BI (DAX) · Python (pandas, scikit-learn, statsmodels, XGBoost) · Excel · Tableau
 - **Business:** financial modelling (break-even, cash flow, NPV) · customer discovery · Porter's Five Forces · SWOT
 - **Also:** Git · React · TypeScript · Kotlin · Java
 
