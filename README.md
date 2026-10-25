@@ -12,11 +12,14 @@ and a background in data analysis and cloud support. I build web apps and machin
 - **[NBA Contract Value Model](https://github.com/jagjyotsingh10/nba-contract-value-model)**: regression that
   estimates players' fair-market salary from on-court stats (out-of-sample R² 0.59) to find the league's best and
   worst contracts. Python, scikit-learn, statsmodels. [Live dashboard](https://jagjyotsingh10.github.io/nba-contract-value-model/)
+- **[Canada Post Volume Forecast](https://github.com/jagjyotsingh10/canada-post-volume-forecast)**: team
+  capstone pipeline that clusters about 1,200 cost centres with K-Means, then forecasts daily volume with a
+  tuned XGBoost model per cluster. Python, scikit-learn, XGBoost.
 - **[ICR Disease Prediction](https://github.com/jagjyotsingh10/icr-disease-prediction)**: compared eight
   classifiers to predict age-related medical conditions from health data; 90% validation accuracy.
   Python, scikit-learn, XGBoost.
 
 ### Tech
-React · TypeScript · Python · Kotlin · Android · SQL · Java · Tailwind CSS · Power BI · Tableau · scikit-learn · statsmodels · Git
+React · TypeScript · Python · Kotlin · Android · SQL · Java · Tailwind CSS · Power BI · Tableau · scikit-learn · statsmodels · XGBoost · Git
 
 📫 [LinkedIn](https://www.linkedin.com/in/jagjyot-singh-066895193/) · jagjyot.singh10@gmail.com
