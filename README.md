@@ -25,8 +25,8 @@ the data before I trust the answer.
   WorkManager.
 
 ### Tools
-**Analysis:** Python (pandas, scikit-learn, statsmodels, XGBoost) · SQL · SQL Server · Excel · Power BI · Tableau
-**Business:** financial modelling (break-even, cash flow, NPV) · customer discovery · Porter's Five Forces · SWOT
-**Also:** Git · React · TypeScript · Kotlin · Java
+- **Analysis:** Python (pandas, scikit-learn, statsmodels, XGBoost) · SQL · SQL Server · Excel · Power BI · Tableau
+- **Business:** financial modelling (break-even, cash flow, NPV) · customer discovery · Porter's Five Forces · SWOT
+- **Also:** Git · React · TypeScript · Kotlin · Java
 
 📫 [LinkedIn](https://www.linkedin.com/in/jagjyot-singh-066895193/) · jagjyot.singh10@gmail.com
